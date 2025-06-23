@@ -1,0 +1,54 @@
+.stats-container {
+    background-color: #f5f5f5; 
+    padding: 12px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.stats-title {
+    font-size: 1.8rem;
+    color: #86A788;
+    margin-bottom: 10px;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.stats-title span{
+    font-weight: bolder;
+    font-style: italic;
+   
+}
+.stats-pie-container{
+    display: flex;
+    flex-direction: row;
+}
+.stats-content {
+    font-size: 1.1rem;
+    color: rgb(0, 0, 0); 
+    text-align: justify;
+    line-height: 2;
+    letter-spacing: 0.5px; 
+    margin: 10px 0;  
+    padding: 0 15px; 
+    word-wrap: break-word;
+}
+
+.fb{
+    width: 100%;
+    font-size: 1.1rem;
+    color: black; 
+    text-align: justify;
+    line-height: 2;
+    letter-spacing: 0.5px; 
+    margin: 10px 0;  
+    padding: 0px; 
+    word-wrap: break-word;
+}
+
+b{
+    color: #86A788;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.speak{
+    color : rgb(45, 136, 228);
+}
